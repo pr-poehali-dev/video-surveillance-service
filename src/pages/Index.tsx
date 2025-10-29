@@ -170,7 +170,7 @@ export default function Index() {
           <div className="max-w-4xl mx-auto text-center">
             <Badge className="mb-4" variant="secondary">Профессиональные системы безопасности</Badge>
             <h1 className="text-5xl md:text-6xl font-bold mb-6 text-primary">
-              Надежное видеонаблюдение для вашего бизнеса
+              Надежное видеонаблюдение для дома и бизнеса
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
               Проектирование, монтаж и обслуживание систем видеонаблюдения любой сложности. 
