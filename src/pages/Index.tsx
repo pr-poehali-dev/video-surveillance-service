@@ -177,10 +177,6 @@ export default function Index() {
               Опыт работы более 12 лет, 500+ успешных проектов.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="text-lg">
-                <Icon name="Calculator" size={20} className="mr-2" />
-                Рассчитать стоимость
-              </Button>
               <Button size="lg" variant="outline" className="text-lg">
                 <Icon name="FileText" size={20} className="mr-2" />
                 Скачать каталог
