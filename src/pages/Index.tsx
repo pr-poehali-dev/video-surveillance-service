@@ -145,7 +145,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Shield" size={32} className="text-accent" />
-              <span className="text-2xl font-bold text-primary">SecureVision</span>
+              <span className="text-2xl font-bold text-primary">Проект безопасность</span>
             </div>
             <nav className="hidden md:flex gap-8">
               <a href="#services" className="text-foreground hover:text-accent transition-colors">Услуги</a>
@@ -360,7 +360,7 @@ export default function Index() {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
               <Badge className="mb-4">О компании</Badge>
-              <h2 className="text-4xl font-bold mb-4 text-primary">SecureVision</h2>
+              <h2 className="text-4xl font-bold mb-4 text-primary">Проект безопасность</h2>
             </div>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
@@ -482,7 +482,7 @@ export default function Index() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Shield" size={28} />
-                <span className="text-xl font-bold">SecureVision</span>
+                <span className="text-xl font-bold">Проект безопасность</span>
               </div>
               <p className="text-sm opacity-90">
                 Профессиональные системы видеонаблюдения для вашего бизнеса
@@ -516,7 +516,7 @@ export default function Index() {
             </div>
           </div>
           <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm opacity-90">
-            <p>© 2024 SecureVision. Все права защищены.</p>
+            <p>© 2024 Проект безопасность. Все права защищены.</p>
           </div>
         </div>
       </footer>
